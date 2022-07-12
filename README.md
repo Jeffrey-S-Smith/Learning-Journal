@@ -1,6 +1,7 @@
 # Learning-Journal
 
 ## Reflection
+
 Write a brief reflection on your learning today, or use the prompt below to get started.
 
 Consider the following quote from the article linked above:
